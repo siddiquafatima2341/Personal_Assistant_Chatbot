@@ -1,0 +1,14 @@
+{
+  "hello": "Hi there! How can I help you today?",
+  "hi": "Hello! What can I do for you?",
+  "how are you": "I'm just a program, but I'm running smoothly! How about you?",
+  "what is your name": "I'm your personal assistant chatbot, built with Python and Streamlit.",
+  "what can you do": "I can chat with you and answer simple questions. Type 'help' to see examples.",
+  "time": "I can't check the real time yet, but you can ask your system clock!",
+  "bye": "Goodbye! Have a great day!",
+  "thank you": "You're welcome!",
+  "thanks": "Anytime!",
+  "who made you": "I was built using Python, JSON, and Streamlit.",
+  "help": "You can type things like 'hello', 'what can you do', or 'bye'. Add more entries to responses.json to teach me new replies!",
+  "default": "Sorry, I don't understand that yet. Try asking something else, or type 'help'."
+}
